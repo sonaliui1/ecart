@@ -1,0 +1,26 @@
+.footer-links{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-links li{
+    margin: 16px;
+    font-size: 18px;
+    text-align: left;
+}
+.footer-category-list {
+    list-style: none;
+    display: flex;
+    padding: 5px;
+    margin-right: 10px;
+    justify-content: space-around;
+    background-color: rgba(143, 241, 241, 0.233);
+}
+.footer-category-item
+{
+list-style: none;
+display: flex;
+margin: 5px;
+justify-content: space-between;
+
+}

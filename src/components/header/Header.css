@@ -1,0 +1,11 @@
+.ecart{
+    background-color: #f5e72d;
+    height: 40px;
+   text-align: center;
+justify-content: center;
+vertical-align: 10px;
+}
+.e-text{
+padding: 10px;
+    vertical-align: middle ;
+}

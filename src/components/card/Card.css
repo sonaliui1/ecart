@@ -1,0 +1,7 @@
+.card{
+    margin-bottom: 20px;
+    height: 500px;
+}
+.table-striped tr:nth-child(even){
+    background-color: #c2c2ae;
+}
